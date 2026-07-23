@@ -1,0 +1,6 @@
+@SftpIntegrationApi_HostAddress = http://localhost:5015
+
+GET {{SftpIntegrationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

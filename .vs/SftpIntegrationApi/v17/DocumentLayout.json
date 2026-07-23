@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|c:\\users\\hp\\desktop\\sftpintegrationapi\\sftpintegrationapi\\controllers\\sftpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|solutionrelative:sftpintegrationapi\\controllers\\sftpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|c:\\users\\hp\\desktop\\sftpintegrationapi\\sftpintegrationapi\\services\\sftpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|solutionrelative:sftpintegrationapi\\services\\sftpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|c:\\users\\hp\\desktop\\sftpintegrationapi\\sftpintegrationapi\\interfaces\\isftpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|solutionrelative:sftpintegrationapi\\interfaces\\isftpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|c:\\users\\hp\\desktop\\sftpintegrationapi\\sftpintegrationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1C10062-08C4-49F2-81C6-2C2ECA868486}|SftpIntegrationApi\\SftpIntegrationApi.csproj|solutionrelative:sftpintegrationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SftpIntegrationApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\appsettings.json",
+              "RelativeToolTip": "SftpIntegrationApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T04:53:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISftpService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\Interfaces\\ISftpService.cs",
+              "RelativeDocumentMoniker": "SftpIntegrationApi\\Interfaces\\ISftpService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\Interfaces\\ISftpService.cs",
+              "RelativeToolTip": "SftpIntegrationApi\\Interfaces\\ISftpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T04:51:45.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SftpController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\Controllers\\SftpController.cs",
+              "RelativeDocumentMoniker": "SftpIntegrationApi\\Controllers\\SftpController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\Controllers\\SftpController.cs",
+              "RelativeToolTip": "SftpIntegrationApi\\Controllers\\SftpController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T04:51:59.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SftpService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\Services\\SftpService.cs",
+              "RelativeDocumentMoniker": "SftpIntegrationApi\\Services\\SftpService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SftpIntegrationApi\\SftpIntegrationApi\\Services\\SftpService.cs",
+              "RelativeToolTip": "SftpIntegrationApi\\Services\\SftpService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T04:51:49.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
